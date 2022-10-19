@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DrawingApp</string>
+    <string name="gallery">Gallery</string>
+    <string name="color_pallete">Color Pallete</string>
+</resources>
